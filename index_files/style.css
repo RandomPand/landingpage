@@ -6,7 +6,7 @@
 html, body, div, span, object,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, code,
-, em, front-size, img, 
+, em, font, img, 
 fieldset, form, label,
 	margin: 0;
 	padding: 0;
@@ -30,29 +30,9 @@ q:before, q:after {
 	content: '';
 	content: none;
 }
-a {
-text-decoration: none;
-color: black;	
-}
 
 /* remember to define focus styles! */
 :focus {
 	outline: 0;
 }
-#container {
-width: 800px;
-margin: 3em auto
-}
 
-}
-#textleft	img {
-	float; left;
-	front-size 
-}
-#textright ul #nav	{
-float : right: 	
-}
-#textleft ul #nav	{
-	float: left;
-
-}
