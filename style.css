@@ -1,5 +1,5 @@
-/* reset*/
 .row {
-	height: 300px;
-	background: #333;
+	margin: 10px 0;
+	background: gray;
+	text-align: center;
 }
