@@ -1,5 +1,42 @@
-.row {
+.col-md-12 {
 	margin: 10px 0;
-	background: gray;
 	text-align: center;
+}І
+.container{overflow:hidden;width:200px}
+.box{white-space:nowrap}
+.box div{width:90px;display:inline-block;border:1px solid black}
+.logo {
+text-align: center
+}
+ul.main-menu {
+display: -webkit-box;
+display: flex;
+-webkit-box-pack: justify;
+justify-content: space-between; 
+}
+.fullbanner {
+background-image: url(img/fullbanner.jpg);
+background-size: cover;
+height: 500px;
+margin: 10px 0;
+text-align: center;
+}
+.background-gray {
+	background-color: #f7f7f7;
+}
+.w {
+color: white;
+}			
+.g {
+	color: #9c9c9c;
+}
+.banner-text-big {
+	font-size: 25pt;
+}
+.text-middle {
+	text-align: center;
+	background-color: #f7f7f7;
+}
+.New-Collection {
+	font-size: 25pt;
 }
